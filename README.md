@@ -61,7 +61,7 @@ Deploy the website to a production server.
 - Communication Tools: Slack or Microsoft Teams for real-time communication.
 - Project Management: Trello or Asana for task tracking and project management.
 
-##Future Enhancements
+## Future Enhancements
 - Personalized Recommendations: Implement a recommendation system based on user browsing history.
 - Social Media Integration: Allow users to share products on social media platforms.
 - Loyalty Program: Implement a loyalty program to reward repeat customers.
